@@ -1,1 +1,3 @@
-This is reading what inside this file
+This is what i am going to write
+This is what i am going to write
+input2
