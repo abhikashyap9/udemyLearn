@@ -1,0 +1,23 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designopath/udemyLearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designopath/udemyLearn/issues"
+  },
+  "homepage": "https://github.com/designopath/udemyLearn#readme",
+  "dependencies": {
+    "cosmiconfig": "^8.0.0",
+    "slugify": "^1.6.5"
+  }
+}
